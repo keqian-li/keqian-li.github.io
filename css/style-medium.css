@@ -1,4 +1,4 @@
-/*
+/* 
 	Read Only by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -95,8 +95,8 @@
 			}
 
 			#titleBar .toggle:before {
-				background: #4acaa8;
-				color: #ffffff;
+				background: #a0b4b7;
+				color: #a0b4b7;
 				content: '\f0c9';
 				display: block;
 				font-size: 18px;
@@ -110,6 +110,6 @@
 			}
 
 	#sidePanel {
-		background: #4acaa8;
-		color: #d1f1e9;
+		background: #a0b4b7;
+		color: #a0b4b7;
 	}
