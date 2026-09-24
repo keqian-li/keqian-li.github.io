@@ -28,7 +28,7 @@
 
 	#header {
 		background: none;
-		border-left: 0;
+		box-shadow: none;
 		bottom: auto;
 		left: auto;
 		position: relative;
