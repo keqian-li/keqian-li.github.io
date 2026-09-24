@@ -28,6 +28,7 @@
 
 	#header {
 		background: none;
+		border-left: 0;
 		bottom: auto;
 		left: auto;
 		position: relative;
